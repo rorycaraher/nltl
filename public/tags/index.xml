@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Nothing Left to Learn</title>
+    <link>http://example.org/tags/</link>
+    <description>Recent content in Tags on Nothing Left to Learn</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Nov 2022 18:47:23 +0000</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>javascript</title>
+      <link>http://example.org/tags/javascript/</link>
+      <pubDate>Thu, 10 Nov 2022 18:47:23 +0000</pubDate>
+      
+      <guid>http://example.org/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pd</title>
+      <link>http://example.org/tags/pd/</link>
+      <pubDate>Thu, 10 Nov 2022 18:47:23 +0000</pubDate>
+      
+      <guid>http://example.org/tags/pd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ableton</title>
+      <link>http://example.org/tags/ableton/</link>
+      <pubDate>Thu, 10 Nov 2022 18:46:41 +0000</pubDate>
+      
+      <guid>http://example.org/tags/ableton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ruby</title>
+      <link>http://example.org/tags/ruby/</link>
+      <pubDate>Thu, 10 Nov 2022 18:46:41 +0000</pubDate>
+      
+      <guid>http://example.org/tags/ruby/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>max</title>
+      <link>http://example.org/tags/max/</link>
+      <pubDate>Thu, 10 Nov 2022 18:41:19 +0000</pubDate>
+      
+      <guid>http://example.org/tags/max/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sequencer</title>
+      <link>http://example.org/tags/sequencer/</link>
+      <pubDate>Thu, 10 Nov 2022 18:41:19 +0000</pubDate>
+      
+      <guid>http://example.org/tags/sequencer/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

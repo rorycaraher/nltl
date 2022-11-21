@@ -1,0 +1,29 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Nothing Left to Learn'
+theme = 'nltl-theme'
+
+[params]
+homeText = "You just made a Hugo blog from scratch."
+
+[menu]
+[[menu.main]]
+name = "Home"
+pre = "skip-forward"
+url = "/"
+weight = 1
+[[menu.main]]
+name = "Projects"
+pre = "edit"
+url = "/projects/"
+weight = 2
+[[menu.main]]
+name = "Archive"
+pre = "edit"
+url = "/archive/"
+weight = 3
+[[menu.main]]
+name = "About"
+pre = "tag"
+url = "/about/"
+weight = 4

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pd on Nothing Left to Learn</title>
+    <link>http://example.org/tags/pd/</link>
+    <description>Recent content in pd on Nothing Left to Learn</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Nov 2022 18:47:23 +0000</lastBuildDate><atom:link href="http://example.org/tags/pd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IP Chords</title>
+      <link>http://example.org/projects/ip-chords/</link>
+      <pubDate>Thu, 10 Nov 2022 18:47:23 +0000</pubDate>
+      
+      <guid>http://example.org/projects/ip-chords/</guid>
+      <description>IP Address as Chord Progressions</description>
+    </item>
+    
+    <item>
+      <title>Isorhythm</title>
+      <link>http://example.org/projects/isorhythm/</link>
+      <pubDate>Thu, 10 Nov 2022 18:41:19 +0000</pubDate>
+      
+      <guid>http://example.org/projects/isorhythm/</guid>
+      <description>Pure Data and Max For Live implementations of isorhythm sequencing.
+Isorhythm on Wikipedia
+The idea here is to decouple a melody&amp;rsquo;s rhythm events and sequence of pitches. Then the number of rhythm events and pitches can be different, and we iterate through pitches on each rhythm event.</description>
+    </item>
+    
+  </channel>
+</rss>
