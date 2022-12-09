@@ -1,3 +1,3 @@
 # Nothing Left to Learn
 
-Hugo website and scripts for the [https://www.nothinglefttolearn.com](Nothing Left to Learn) online platform.
+Hugo website and scripts for the [Nothing Left to Learn](https://www.nothinglefttolearn.com) online platform.
