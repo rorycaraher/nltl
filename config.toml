@@ -1,10 +1,10 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://www.nothinglefttolearn.com/'
 languageCode = 'en-us'
 title = 'Nothing Left to Learn'
 theme = 'nltl-theme'
 
 [params]
-homeText = "You just made a Hugo blog from scratch."
+homeText = "Nothing Left to Learn"
 
 [menu]
 [[menu.main]]
