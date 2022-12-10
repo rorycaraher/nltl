@@ -1,3 +1,5 @@
 public/*
 content/*
 archive-generator/output/*
+archive-generator/__pycache__/*
+venv/*

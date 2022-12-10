@@ -1,0 +1,12 @@
+{# templates/archive-item.txt #}
+---
+title: "{{ title }}"
+date: {{ title }}+00:00
+tags: ["archive"]
+draft: false
+size: {{ size }}
+duration: 0
+file_link: "{{ file_link }}"
+file_type: "mp3"
+---
+Archived at {{ title }}
