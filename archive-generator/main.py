@@ -9,7 +9,7 @@ response = client.list_objects_v2(
 for content in response.get('Contents', []):
     key_split = content['Key'].split("/")
     if "mp3" in content['Key']:
-        with open("output/{}.md".format(key_split[1].replace(".mp3","")), "w") as file:
+        with open("../content/archive/{}.md".format(key_split[1].replace(".mp3","")), "w") as file:
             file.writelines(
                 """---
 title: "{title}"
