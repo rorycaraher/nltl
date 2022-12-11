@@ -10,8 +10,9 @@ class ArchiveGenerator:
 
     def get_archive_objects(self):
         return self.client.list_objects_v2(
-            Bucket='nltl-archive',
-            Prefix='archive')
+                Bucket='nltl-archive',
+                Prefix='archive'
+            )
 
     def empty_existing_archive(self):
         for f in os.listdir(self.archive_path):
