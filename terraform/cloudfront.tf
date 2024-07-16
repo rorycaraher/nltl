@@ -11,8 +11,8 @@ resource "aws_cloudfront_distribution" "nltl_cdn" {
   aliases = [
     "www.nothinglefttolearn.com",
   ]
-  comment = "NLTL CDN"
-is_ipv6_enabled                = true
+  comment         = "NLTL CDN"
+  is_ipv6_enabled = true
   origin {
     origin_id   = local.website_origin_name
     domain_name = local.website_origin_domain
