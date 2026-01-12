@@ -1,0 +1,23 @@
+{{ define "main" }}
+<div
+  class="relative flex h-auto min-h-screen w-full flex-col bg-[#111618] dark group/design-root overflow-x-hidden"
+  style='font-family: "Space Grotesk", "Noto Sans", sans-serif;'
+>
+  <div class="layout-container flex h-full grow flex-col">
+    {{ partial "header.html" . }}
+    <div class="px-6 md:px-40 flex flex-1 justify-center py-5">
+      <div class="layout-content-container flex flex-col max-w-[960px] flex-1 text-white">
+        <div class="flex flex-wrap justify-between gap-3 p-4">
+          <p class="text-white tracking-light text-[32px] font-bold leading-tight min-w-72">{{ .Title }}</p>
+        </div>
+        {{ with .Params.subtitle }}
+          <p class="px-4 text-[#9cb0ba] text-base font-normal leading-normal">{{ . }}</p>
+        {{ end }}
+        <div class="px-4 py-6 prose prose-invert max-w-none">
+          {{ .Content }}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+{{ end }}

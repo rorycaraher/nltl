@@ -1,0 +1,17 @@
+name = "Signal Repository"
+license = "MIT"
+licenselink = "https://opensource.org/licenses/MIT"
+description = "A dark, audio-archive inspired blog theme."
+min_version = "0.115.0"
+
+[author]
+  name = "Codex"
+
+[params]
+  description = "Audio archive and signals."
+  hero_title = "Audio Archive"
+  hero_search_placeholder = "Search audio tracks"
+  player_title = "Signal 1"
+  player_subtitle = "Nothing Left To Learn"
+  player_image = "https://lh3.googleusercontent.com/aida-public/AB6AXuAYDJRhqaHFGrLg6LjnaoRWa0nwxn6NPzecKLx8ocdpqaeGW-djkVUh3kRyOcwyZpCEyJGH1O6WgdkFgLCJXdkdghqf7rULvtHBGUtmqHylg9TP7KC4xj6GLfAcMgWqNXFKwS3rlsKFsxLWcqhtX_oqvCJXqFg_DPL2iFzN64VEwWB5ny4YFhwWxAXep50hPsLZvAfFV7IeD3l-en2WiKVo6RpBt1GaIIr-ah_ln2FwSefUXOhtmJgpXE6xKSzVyR2oW3ixwrwBzCA"
+  avatar = "https://lh3.googleusercontent.com/aida-public/AB6AXuASsTMNJ2gk0PWUdJTbwSaFgcrXze3pMy_DBuyX7Laras2IxybucGVFWFazFV0BrmkUgjtk2qL2s89K27hiexB4Z2NvfiAoYaR0aIQWFOiKuQlLlOMqMdmFM-igbZzUGP3ShEgRyBfx8aa7ps7D5ZlMtnzVXZ2DMN3vRduQt9MMA0ojR9aWY7CJcu9kLYQcUCEe_6r72k6RcsTd1gNbuwoZku5u_dbaWIv3PaO_s6JtbBIuVIcn1Ibb0-8PrH9VIgzeVxooinU7wuQ"

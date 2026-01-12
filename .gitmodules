@@ -4,3 +4,6 @@
 [submodule "www/themes/HugoTex"]
 	path = www/themes/HugoTex
 	url = https://github.com/kaisugi/HugoTeX
+[submodule "www/themes/ananke"]
+	path = www/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git

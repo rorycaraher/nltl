@@ -1,7 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://www.nothinglefttolearn.com/'
 languageCode = 'en-us'
 title = 'Nothing Left to Learn'
-theme = 'HugoTeX'
-
-[Params]
-  darkmode = true
+theme = 'signal-repository'
